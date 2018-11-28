@@ -330,4 +330,6 @@ ASALocalRun/
 .mfractor/
 
 # sfml doc
-SFML-2.5.1/doc/
+SFML-2.5.1/doc/*
+SFML-2.5.1/examples/*
+*.html
